@@ -8,10 +8,11 @@
 </p>
 
 ## Notice
-
-PHP: 8.3.9 (cli)
-Laravel: 11.9
-PostgreSQL: 16.x
+<p>
+    <strong>PHP</strong>: 8.3.9 (cli)<br />
+    <strong>Laravel</strong>: 11.9<br />
+    <strong>PostgreSQL</strong>: 16.x
+</p>
 
 ## Getting Start
 
