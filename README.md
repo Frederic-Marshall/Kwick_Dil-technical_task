@@ -32,3 +32,11 @@
 ```
 
 После этих действий можно начать взаимодействие с API приложения через браузер или программу ```Postman```
+
+# Активные сторонники
+
+#### [Frederic Marshall](https://avatars.githubusercontent.com/u/114493023?v=4) - Сопровождающий
+
+<img align="left" width="40" height="40" src="https://avatars.githubusercontent.com/u/114493023?v=4">
+
+Frederic - Backend PHP разработчик
